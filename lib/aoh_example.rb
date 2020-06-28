@@ -18,6 +18,7 @@ def literal_aoh
     { name:  "Kate Gompert", occupation: "None" },
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
+  AOH
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
